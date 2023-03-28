@@ -36,3 +36,5 @@ class Course {
     this.color = const Color(0xFF7553F6),
   });
 }
+
+
