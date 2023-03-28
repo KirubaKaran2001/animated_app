@@ -5,7 +5,6 @@ import 'package:animated_app/components/secondary_course.dart';
 import 'package:animated_app/modal/rive_modal.dart';
 import 'package:animated_app/utils/utils.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_svg/flutter_svg.dart';
 import 'package:rive/rive.dart';
 
 import '../constants/rive_constants.dart';
